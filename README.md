@@ -17,6 +17,7 @@ Aquí he aprendido a estructurar sitios web usando HTML y más importante CSS gr
 - Git y GitHub
 
 ## Estructura del proyecto:
+
 📦 CSS-Grid-Basico-Platzi
 ├── index.html
 ├── styles/
@@ -26,9 +27,8 @@ Aquí he aprendido a estructurar sitios web usando HTML y más importante CSS gr
 └── README.md
 
 ## 📚 Resources / References
-- Platform: [Platzi](https://platzi.com)
-- Original course: [Curso de CSS Grid Básico](https://platzi.com/cursos/css-grid/)
-- Icons from: [Heroicons](https://heroicons.com)
+- Plataforma: [Platzi](https://platzi.com)
+- Enlace del curso: [Curso de CSS Grid Básico](https://platzi.com/cursos/css-grid/)
 
 ## ✍️ Autor
 Hecho con 💚 por @avidevcode
