@@ -18,3 +18,22 @@ main {
 .main-hero-info {
   align-self: center;
 }
+.main-info-title {
+  color: #333;
+  font-size: 3rem;
+  font-weight: bolder;
+  margin-bottom: 24px;
+}
+.main-hero-subttitle {
+  color: #666;
+  margin-bottom: 24px;
+}
+.main-button {
+  border: none;
+  border-radius: 20px;
+  color: #333;
+  background-color: #fb8c00;
+  font-weight: bolder;
+  padding: 12px 24px;
+  cursor: pointer;
+}
