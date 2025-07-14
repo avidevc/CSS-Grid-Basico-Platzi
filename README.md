@@ -1,4 +1,4 @@
-[Curso de CSS Grid Básico](https://platzi.com/cursos/css-grid/)
+# [Curso de CSS Grid Básico](https://platzi.com/cursos/css-grid/)
 
 <sub>_(Ctrl + Click or Middle-click to open in a new tab)_</sub>
 
