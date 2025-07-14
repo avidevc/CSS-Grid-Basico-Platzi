@@ -37,7 +37,6 @@ main {
   font-weight: bolder;
   padding: 12px 24px;
   cursor: pointer;
-  font-kerning: none;
 }
 
 .dishes {
